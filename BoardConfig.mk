@@ -87,7 +87,7 @@ OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
 
 # Includes
 TARGET_SPECIFIC_HEADER_PATH := device/htc/a5/include
-m
+
 # Libc extensions
 BOARD_PROVIDES_ADDITIONAL_BIONIC_STATIC_LIBS += libc_htc_symbols
 
